@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("Thank you God for this learning opportunity!")
         NullObjectMain()
     }
 
