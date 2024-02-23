@@ -18,3 +18,39 @@ class ViewController: UIViewController {
 
 }
 
+// MARK: - Design Patterns
+struct ThePatterns {
+    
+    enum Creational: String {
+        case Builder
+        case AbstractFactory
+        case FactoryMethod
+        case Prototype
+        case Singleton
+    }
+    
+    enum Structural: String {
+        case Adapter
+        case Bridge
+        case Composite
+        case Decorator
+        case Facade
+        case Flyweight
+        case Proxy
+    }
+    
+    enum Behavioral: String {
+        case ChainOfResponsibility
+        case Command
+        case Interpreter
+        case Iterator
+        case Mediator
+        case Memento
+        case NullObject
+        case Observer
+        case State
+        case Strategy
+        case TemplateMethod
+        case Visitor
+    }
+}
