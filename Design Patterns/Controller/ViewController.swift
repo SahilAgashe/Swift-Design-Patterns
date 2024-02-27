@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Thank you God for this learning opportunity!")
-        NullObjectMain()
+        //NullObjectLearn.main()
+        //MediatorLearn.main()
     }
 
 
@@ -44,9 +45,9 @@ struct ThePatterns {
         case Command
         case Interpreter
         case Iterator
-        case Mediator
+        case Mediator // done
         case Memento
-        case NullObject
+        case NullObject // done
         case Observer
         case State
         case Strategy
