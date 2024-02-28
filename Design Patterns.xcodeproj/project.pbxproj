@@ -15,6 +15,7 @@
 		81AE3B8F2B8900FE00CCF16B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81AE3B8E2B8900FE00CCF16B /* Assets.xcassets */; };
 		81AE3B922B8900FE00CCF16B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AE3B902B8900FE00CCF16B /* LaunchScreen.storyboard */; };
 		81AE3B9A2B89014100CCF16B /* Null_Object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AE3B992B89014100CCF16B /* Null_Object.swift */; };
+		81B550812B8F0E3600395AEF /* Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B550802B8F0E3600395AEF /* Bridge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		81AE3B912B8900FE00CCF16B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81AE3B932B8900FE00CCF16B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81AE3B992B89014100CCF16B /* Null_Object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Null_Object.swift; sourceTree = "<group>"; };
+		81B550802B8F0E3600395AEF /* Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bridge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				81AE3B9D2B8904A300CCF16B /* Supporting Files */,
 				81AE3B992B89014100CCF16B /* Null_Object.swift */,
 				8109409A2B8E1388000F92F8 /* Mediator.swift */,
+				81B550802B8F0E3600395AEF /* Bridge.swift */,
 			);
 			path = "Design Patterns";
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			files = (
 				81AE3B8A2B8900FD00CCF16B /* ViewController.swift in Sources */,
 				81AE3B9A2B89014100CCF16B /* Null_Object.swift in Sources */,
+				81B550812B8F0E3600395AEF /* Bridge.swift in Sources */,
 				81AE3B862B8900FD00CCF16B /* AppDelegate.swift in Sources */,
 				81AE3B882B8900FD00CCF16B /* SceneDelegate.swift in Sources */,
 				8109409B2B8E1388000F92F8 /* Mediator.swift in Sources */,

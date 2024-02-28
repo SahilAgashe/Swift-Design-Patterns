@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("Thank you God for this learning opportunity!")
         //NullObjectLearn.main()
         //MediatorLearn.main()
+        BridgeLearn.main()
     }
 
 
