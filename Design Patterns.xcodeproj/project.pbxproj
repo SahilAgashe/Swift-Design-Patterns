@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8109409B2B8E1388000F92F8 /* Mediator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8109409A2B8E1388000F92F8 /* Mediator.swift */; };
+		81918E512B90AFFF009314C6 /* State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81918E502B90AFFF009314C6 /* State.swift */; };
 		81AE3B862B8900FD00CCF16B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AE3B852B8900FD00CCF16B /* AppDelegate.swift */; };
 		81AE3B882B8900FD00CCF16B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AE3B872B8900FD00CCF16B /* SceneDelegate.swift */; };
 		81AE3B8A2B8900FD00CCF16B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AE3B892B8900FD00CCF16B /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		8109409A2B8E1388000F92F8 /* Mediator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mediator.swift; sourceTree = "<group>"; };
+		81918E502B90AFFF009314C6 /* State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = State.swift; sourceTree = "<group>"; };
 		81AE3B822B8900FD00CCF16B /* Design Patterns.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Design Patterns.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AE3B852B8900FD00CCF16B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81AE3B872B8900FD00CCF16B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				81AE3B992B89014100CCF16B /* Null_Object.swift */,
 				8109409A2B8E1388000F92F8 /* Mediator.swift */,
 				81B550802B8F0E3600395AEF /* Bridge.swift */,
+				81918E502B90AFFF009314C6 /* State.swift */,
 			);
 			path = "Design Patterns";
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				81B550812B8F0E3600395AEF /* Bridge.swift in Sources */,
 				81AE3B862B8900FD00CCF16B /* AppDelegate.swift in Sources */,
 				81AE3B882B8900FD00CCF16B /* SceneDelegate.swift in Sources */,
+				81918E512B90AFFF009314C6 /* State.swift in Sources */,
 				8109409B2B8E1388000F92F8 /* Mediator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

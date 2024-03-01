@@ -33,7 +33,7 @@ struct ThePatterns {
     
     enum Structural: String {
         case Adapter
-        case Bridge
+        case Bridge // done
         case Composite
         case Decorator
         case Facade
@@ -50,7 +50,7 @@ struct ThePatterns {
         case Memento
         case NullObject // done
         case Observer
-        case State
+        case State // done
         case Strategy
         case TemplateMethod
         case Visitor
