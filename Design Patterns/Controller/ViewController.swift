@@ -15,7 +15,8 @@ class ViewController: UIViewController {
         //NullObjectLearn.main()
         //MediatorLearn.main()
         //BridgeLearn.main()
-        TemplateMethodLearn.main()
+        //TemplateMethodLearn.main()
+        TemplateMethodLearnPart2.main()
     }
 
 
