@@ -72,6 +72,7 @@ struct StateLearn {
     }
 }
 
+/// Reference:- 
 /// https://www.geeksforgeeks.org/state-design-pattern/
 /// Vending Machine
 ///A vending machine is a mechanical device that dispenses items such as snacks, beverages, cigarettes, lottery tickets, or even electronics to customers automatically, after the customer inserts money or credit into the machine. These machines are commonly found in public places like airports, train stations, shopping malls, and workplaces, providing convenience for people to purchase items without the need for human assistance.

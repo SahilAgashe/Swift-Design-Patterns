@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         print("Thank you God for this learning opportunity!")
         //NullObjectLearn.main()
         //MediatorLearn.main()
-        BridgeLearn.main()
+        //BridgeLearn.main()
+        TemplateMethodLearn.main()
     }
 
 
@@ -52,7 +53,7 @@ struct ThePatterns {
         case Observer
         case State // done
         case Strategy
-        case TemplateMethod
+        case TemplateMethod // done
         case Visitor
     }
 }
