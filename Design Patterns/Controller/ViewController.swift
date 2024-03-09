@@ -16,7 +16,8 @@ class ViewController: UIViewController {
         //MediatorLearn.main()
         //BridgeLearn.main()
         //TemplateMethodLearn.main()
-        TemplateMethodLearnPart2.main()
+        //TemplateMethodLearnPart2.main()
+        IteratorLearn.main()
     }
 
 
@@ -47,7 +48,7 @@ struct ThePatterns {
         case ChainOfResponsibility
         case Command
         case Interpreter
-        case Iterator
+        case Iterator // done 
         case Mediator // done
         case Memento
         case NullObject // done

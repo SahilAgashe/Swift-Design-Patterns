@@ -7,7 +7,7 @@
 
 import Foundation
 
-// Abstract class can't used for object creation. Needs to be subclassed!
+// Khela is an abstract class can't be used for object creation. Needs to be subclassed!
 class Khela {
     
     // template method runnig high level algorithm
