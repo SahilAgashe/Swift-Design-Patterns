@@ -17,7 +17,8 @@ class ViewController: UIViewController {
         //BridgeLearn.main()
         //TemplateMethodLearn.main()
         //TemplateMethodLearnPart2.main()
-        IteratorLearn.main()
+        //IteratorLearn.main()
+        IteratorLearnUseCase.main()
     }
 
 
