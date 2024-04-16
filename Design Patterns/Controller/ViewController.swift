@@ -20,7 +20,8 @@ class ViewController: UIViewController {
         //IteratorLearn.main()
         //IteratorLearnUseCase.main()
         //SRPLearn.main()
-        OCPLearn.main()
+        //OCPLearn.main()
+        LSPLearn.main()
     }
 
 

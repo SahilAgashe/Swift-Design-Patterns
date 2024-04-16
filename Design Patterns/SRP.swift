@@ -1,5 +1,5 @@
 //
-//  Single-Responsibilty-Principle.swift
+//  SRP.swift
 //  Design Patterns
 //
 //  Created by SAHIL AMRUT AGASHE on 15/04/24.
