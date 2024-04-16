@@ -21,7 +21,8 @@
 		81AE3B922B8900FE00CCF16B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AE3B902B8900FE00CCF16B /* LaunchScreen.storyboard */; };
 		81AE3B9A2B89014100CCF16B /* Null_Object.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81AE3B992B89014100CCF16B /* Null_Object.swift */; };
 		81B550812B8F0E3600395AEF /* Bridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B550802B8F0E3600395AEF /* Bridge.swift */; };
-		81C40EA52BCD95D6007EB95A /* Single-Responsibilty-Principle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C40EA42BCD95D6007EB95A /* Single-Responsibilty-Principle.swift */; };
+		81C40EA52BCD95D6007EB95A /* SRP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C40EA42BCD95D6007EB95A /* SRP.swift */; };
+		81C40EA72BCD9E47007EB95A /* OCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C40EA62BCD9E47007EB95A /* OCP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,7 +42,8 @@
 		81AE3B932B8900FE00CCF16B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81AE3B992B89014100CCF16B /* Null_Object.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Null_Object.swift; sourceTree = "<group>"; };
 		81B550802B8F0E3600395AEF /* Bridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bridge.swift; sourceTree = "<group>"; };
-		81C40EA42BCD95D6007EB95A /* Single-Responsibilty-Principle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Single-Responsibilty-Principle.swift"; sourceTree = "<group>"; };
+		81C40EA42BCD95D6007EB95A /* SRP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SRP.swift; sourceTree = "<group>"; };
+		81C40EA62BCD9E47007EB95A /* OCP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OCP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +87,8 @@
 				8199B3712B9B2AE500D4B50D /* TemplateMethod-2.swift */,
 				8166A08C2B9C145C00316F20 /* Iterator.swift */,
 				8142FE642BA046DA005B8F00 /* Iterator-UseCase.swift */,
-				81C40EA42BCD95D6007EB95A /* Single-Responsibilty-Principle.swift */,
+				81C40EA42BCD95D6007EB95A /* SRP.swift */,
+				81C40EA62BCD9E47007EB95A /* OCP.swift */,
 			);
 			path = "Design Patterns";
 			sourceTree = "<group>";
@@ -189,10 +192,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81C40EA52BCD95D6007EB95A /* Single-Responsibilty-Principle.swift in Sources */,
+				81C40EA52BCD95D6007EB95A /* SRP.swift in Sources */,
 				8199B3722B9B2AE500D4B50D /* TemplateMethod-2.swift in Sources */,
 				81AE3B8A2B8900FD00CCF16B /* ViewController.swift in Sources */,
 				8142FE652BA046DA005B8F00 /* Iterator-UseCase.swift in Sources */,
+				81C40EA72BCD9E47007EB95A /* OCP.swift in Sources */,
 				81AE3B9A2B89014100CCF16B /* Null_Object.swift in Sources */,
 				8166A08D2B9C145C00316F20 /* Iterator.swift in Sources */,
 				81B550812B8F0E3600395AEF /* Bridge.swift in Sources */,

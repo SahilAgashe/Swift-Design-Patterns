@@ -19,7 +19,8 @@ class ViewController: UIViewController {
         //TemplateMethodLearnPart2.main()
         //IteratorLearn.main()
         //IteratorLearnUseCase.main()
-        SRPLearn.main()
+        //SRPLearn.main()
+        OCPLearn.main()
     }
 
 
